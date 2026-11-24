@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+
+# Logs
+*.log
+
+# Testing
+.coverage
+htmlcov/
+
+# Frontend
+node_modules/
+dist/
